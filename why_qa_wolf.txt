@@ -1,0 +1,14 @@
+I am genuinely excited about the opportunity to join QA Wolf as a QA Engineer. I would be very excited to work in automated testing, I have been working hard to develop my software engineering skills.
+In doing this I have experienced how hard it can be to obtain good code coverage through testing. This is a challenge I have taken to with enthusiasm in my most recent college assessment.
+
+Having worked on automated testing projects during my college assessments, I have experienced firsthand the power and efficiency it brings to software development.
+These experiences have not only sharpened my technical skills but also instilled in me a profound appreciation for the importance of thorough and reliable testing processes.
+
+QA Wolf's emphasis on values such as effective communication, collaboration, and continuous improvement align closely with my own professional values.
+I thrive in environments where open communication and teamwork are valued, and I would be excited to work in an environment that actively encourages these values.
+
+Furthermore, the opportunity to work with technology such as JavaScript/Playwright is particularly exciting for me.
+I am enthusiastic about expanding my skills in this area and diving deeper into the code so I can continue to learn and grow and make bigger impacts.
+
+Overall, I believe that my technical expertise, passion for automated testing, and alignment with QA Wolf's values make me a strong fit for the role of QA Engineer.
+I am eager to bring my enthusiasm and dedication to the team and contribute to QA Wolf's mission of transforming the software testing landscape.
